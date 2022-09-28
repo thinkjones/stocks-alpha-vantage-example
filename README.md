@@ -8,8 +8,8 @@ Hello world code to extract currency info from Alpha Vantage and return it in a 
 4) To run: `python stocks.py <API KEY>`
 5) To test:  `python -m unittest tests/stocks_test.py`
 
-### Create VENV for project
-[Install pyenv-virtualenv Info](https://github.com/pyenv/pyenv-virtualenv#installing-with-homebrew-for-macos-users)
+# Create VENV for project
+[Additional Install pyenv-virtualenv Info](https://github.com/pyenv/pyenv-virtualenv#installing-with-homebrew-for-macos-users)
 
 Example install for ingestion:
 ```
@@ -26,7 +26,7 @@ pyenv activate stocks-alpha-3.8.10
 pip install -r requirements.txt
 ```
 
-# PYENV and Pythong 3.8.10 Install
+# PYENV and Python 3.8.10 Install
 
 ## Install PyEnv
 * Use [pyenv](https://github.com/pyenv/pyenv/wiki) to Install Python 3.8.
