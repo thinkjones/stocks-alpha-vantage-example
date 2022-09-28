@@ -2,7 +2,7 @@
 Hello world code to extract currency info from Alpha Vantage and return it in a CSV format.
 
 ## Setup
-1) Ensure PYENV and Python are installed (See "PYENV and Pythong 3.8.10 Install" below)
+1) Ensure PYENV and Python are installed (See "PYENV and Python 3.8.10 Install" below)
 2) Create VENV for project (See "Create VENV for project" below)
 3) Get Alpha Vantage API key from https://www.alphavantage.co/documentation/
 4) To run: `python stocks.py <API KEY>`
