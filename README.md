@@ -5,7 +5,8 @@ Hello world code to extract currency info from Alpha Vantage and return it in a 
 1) Ensure PYENV and Python are installed (See "PYENV and Pythong 3.8.10 Install" below)
 2) Create VENV for project (See "Create VENV for project" below)
 3) Get Alpha Vantage API key from https://www.alphavantage.co/documentation/
-4) Run python stocks.py API KEY
+4) To run: `python stocks.py <API KEY>`
+5) To test:  `python -m unittest tests/stocks_test.py`
 
 ### Create VENV for project
 [Install pyenv-virtualenv Info](https://github.com/pyenv/pyenv-virtualenv#installing-with-homebrew-for-macos-users)
